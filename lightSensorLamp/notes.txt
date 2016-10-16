@@ -1,0 +1,7 @@
+using 1W led  with R 
+
+
+95  25ma    fully dark 
+
+Transistor 2 B 0.04ma
+
