@@ -1,0 +1,11 @@
+
+1 All can be adjusted, Dead time, frequency, input1, input2, 
+
+2 key resistor /cap removable  (hard to measured the value when it's connected in circuit)
+
+3 Test points
+
+4 use what power connector ?
+
+5 Current test points
+
