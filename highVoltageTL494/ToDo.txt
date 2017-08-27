@@ -1,0 +1,26 @@
+1 What's the best freq ???
+    current:  
+	 Ct     Rt     Gate Freq  no load current    output Voltage
+	 2nf   6.2K    48khz   300ma,                544VX2
+	 2nf   8.2K    30Khz    200ma
+	 1nf   8.2K    61Khz    500ma                560X2
+	 1nf   5.1K    93Khz    700ma                
+	 1nf   2.7K    155Khz    700ma
+	 1nf   6.22K   80KHz     700ma
+
+no load current is related to Voltage Potentialmeter and DTC
+Higher Vol limit, higher no load current
+Lower DTC voltage (higher duty )  higher no load current
+
+all tests are using high Voltage limit
+current DTC voltage is 0.2mv
+
+
+
+2 Should output 1400V-1600V.
+  option 1 single transformer
+  option 2 output 800V and double to 1600V
+  
+  Rebuild a new transformer to output 1600V see how it goes first
+  
+  

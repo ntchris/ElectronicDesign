@@ -1,0 +1,100 @@
+Power Supply
+9V   
+
+primary 7T+7T  (Not enough ???)
+
+Can test this with joul thief test circuit
+
+if input current is too high, meaning secondary has short!!!!!  try to watch it in dark env, should see sparks.
+
+
+
+9V     
+ T      amper
+ 
+ 
+ another 5T  (Wrong direction)    0.7A      6.3W
+ 
+ white/brown 4turns each  small    0.120A      
+ 
+ 9V
+ 6T+6T single wire       0.085-0.090 A  (more turn but larger current ??)
+ 6T+6T  double wire      0.120A  ( 5.5 T ??? )
+ 3T+3T triple wire        0.165A   (3.5T ???)
+ 4T+4T quad wire     0.165A  (4.5T)
+ 
+ Primary  8T(9T ??)  double wires, pararell  0.050A   !!!! very good
+ Secondary 810T  , however, after added 810T secondary, amper is 600ma ???!!! why??
+ 
+ no transformer   0.014    0.1W
+
+30 - 0   0.047A      0.42 W
+30 -2    0.052        0.45W
+
+30 -10     0.076       0.6W
+30 -12    0.08A        0.72
+
+1000T   0.015A   (minimal)  
+  
+InductorSmallest    0.137A   1W  
+InductorSmall5    0.071A   0.6W  
+0.060
+Inductor1 (285Uh)    0.030A   0.27W
+
+
+
+1000V @ 10ma   wattage = 1000* 0.01=10W
+
+10W @ 9V Amper = 1.1A
+
+
+July 17  2017  4.5T ++ 930T  
+July 18 2017, 3.5T +870T  (3.5T in the middle,  3 wires pararell)
+July 19  2017 , 每??00圈绕贴纸一次, 似乎不漏电(但空载电流500ma)
+July 20  2017 , 每100圈喷一次, 仍然漏电.
+July 21  2017 , 每100圈绕贴纸一次,  (但空载电流500ma)
+
+
+
+
+
+Testing only primary coils and current:  (Two wires push pull)
+(No transformer 14ma)
+Turns      Current
+1T          1000ma -14
+2T           465ma -14 = 451
+3T           210ma -14 = 196
+4T           120ma -14 = 106
+5T            78ma -14 = 64
+6T            60ma -14 = 46
+7T            46ma -14 = 32
+8T            38ma -14 = 24
+
+
+
+
+
+============================================
+Insulation : must NOT use silicon conformant, still has short circuit.
+can use acrylic conformant , working fine so far.
+
+38MAG can use 150--200 one layer, 
+
+primary coil: 
+
+Red (pin 1)+ Black (pin 2), roll 5.5T ,
+Red Pin3 ,  Black Pin4
+(Pin 2 Pin 3  connected)
+
+38MAG is good enough for 1000 turns total without tape,  
+34MAG can not roll many turns
+
+Secondary coil:
+start from pin1, wind 200 turns and solder to pin2, can cut the wire.  apply acrylic and tape.
+another wire, start from pin2, same direction continue to wind, another 200 turns, solder to pin3. apply acrylic and tape.
+start from pin3 and add another 200, solder to pin 4
+
+
+
+3rd Transformer
+3.5T  and 181+177+163+154+117 = 800T
