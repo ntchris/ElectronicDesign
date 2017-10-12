@@ -1,0 +1,18 @@
+1R0 inductor , 1A output in 1 USB,  1.4A output in 2USB
+
+Key is must have to enable the chip
+
+IP5306 chip
+Output test:
+   Tested using DIY charger(2X TP4056), 2A output is achieved.
+Charge test 
+   1.55A  1.8A power supply 
+
+
+Improvement 
+1 key is must
+2 heat sink (via near inductor and ic)
+3 batt input polarise reverse
+4 four LED closer
+5 USB A  two holes
+
