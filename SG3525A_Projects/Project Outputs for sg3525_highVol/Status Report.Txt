@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [sg3525_highVol.PrjPCB]
+   Generated File[sg3525_highVol.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:56:23 PM On 7/11/2017

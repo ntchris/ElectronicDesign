@@ -1,0 +1,12 @@
+1
+Radio AR1010 module
+
+2
+option 1   no
+STM8 + AR1010 ----- not enough pins for vol up/down , turn up/down, 2 i2c
+MCU STM8   ---   only enough pins for one 7 Segment display and 4 pin left, 2 of them are for I2C in datasheet.
+
+3
+option 2
+stm8 + AR1010 + TM1637  (control  a seven Segment display and keys, total 6 digits or keys combined)
+

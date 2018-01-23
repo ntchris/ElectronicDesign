@@ -1,0 +1,18 @@
+sensor: use SW200D ,  golden pin downward, switch close
+
+when door is closed, outdoor unit sends signal for "door closed"
+
+outdoor unit sends once per 30 sec.
+
+
+When indoor unit receives the signal, green , good state, reset bad state after 40 sec.
+if receive again, good for another 30 sec.
+
+When indoor unit  the signal, green light , good state
+
+When indoor unit can not receive signal, red light, plus alarm,
+
+signal is :  HHLHLHLLH
+
+
+

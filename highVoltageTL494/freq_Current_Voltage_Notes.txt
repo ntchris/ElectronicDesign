@@ -1,0 +1,149 @@
+Ct =  2.2nf
+Rt =   5.11K  (49khz)
+
+5.35K
+idle current 190ma  ,  837VX2
+
+4.39K
+idle without voltage limi= 9xxV,  current 3XX ma
+limite voltage  837v, 220ma
+
+4.8k
+880VX2V ,255ma
+limit: 835V  228ma
+
+
+5.15k
+852VX2  210ma
+
+
+5.57K
+unlimited voltage 810V, 164ma
+
+5.1k  ,  49.xKHZ
+
+
+
+
+
+
+=====================
+current limit
+9V input 1.3A  short   (output wattage = 12w)
+output 6.76ma
+
+
+0.1R actual value:   0.18/1.3=0.13Ohm
+
+0.13Ohm*1.5A=0.195V
+0.13ohm*1.8A=0.234V
+
+
+
+
+output current calculation:
+input 7.2V , output 1900V
+output current = 9ma
+1900X0.006/7.2= 1.58A
+1900X0.006/7.5= 1.52A
+1900X0.006/8V= 1.4A
+1900X0.007/7.2=
+ 1.84A
+output current limit = 1.8A
+
+
+output current calculation:
+input 7.2V , output 1800V
+output current = 9ma
+1800 X 0.008/7.2= 2A
+1800 X 0.0075/7.2= 1.87A
+1800 X 0.007/7.2= 1.75A
+1800 X 0.006/7.2= 1.5A
+
+
+
+output current limit = 1.8A
+
+
+tested 
+
+1.4A input  9V
+output 6.9ma  1800v
+
+
+
+ 
+ transformer 1  ,    battery pack (3+3 ) , output shorted 6.5ma (larger than transfomer2)
+ voltage no load: 900X2 
+ 
+ 18650X2 7.2V   3.5ma  (current smaller than transformer2)
+ 
+ 
+=====================
+2nd transformer
+
+shorted output : 1.25A input @ 8V
+shorted output : 4ma   900V X 2  ,
+no load input  8V  220ma  and drop ....180ma
+
+
+
+
+==========================================================
+DTC testing:
+15k /  10k = 1.99V  
+15k / 4k =  1V
+
+
+
+
+
+===========================================
+2nd transformer
+9V input   5.55ma output  ,  input 1.55A  (Transformer 1.66A limit)
+PIN116 (+in2 current sense voltage input), current sense limite voltage raised to 233mv  
+
+
+=============================
+power supply 12V 2.5A  Test
+output shorted, input can reach 3A and fuse broken
+(pin 16 +in2 current sense voltage ground )
+
+pin 16 +in2 vol sense 233mv,    
+input 2.2A (limited )   output 7.5ma  (good)  ( fuse broken )
+
+
+
+
+shorted output : 1.35A input @ 8V  4V+4V  lion
+shorted output : 4ma   900V X 2,
+
+
+-------------------------
+Boost  4.3X3 parellal ,   input 10V 1.4A   output 5ma
+
+-------------------------
+2X4.1 X 2 , 2 parellal  and  2 serial 
+
+(4.1+4.1 )Parellel  X 2 = 8.2V    5ma output  (green led, current limit reached)
+input  8.2V 1.55A
+
+
+no-load   220mv   8.2V 
+short output  212mv   (8.2V 1.55A)
+(Pin15 ref  1.8k / 393k )
+
+238mv / 0.13
+
+change 2.2k /393k  ,  ref pin 15 voltage  260mv
+output 5.5ma    input 1.5A  ... (why)  ,   
+ shorted acutal  pin16 0.220mv ??
+
+ 
+ 
+ 
+ transformer 1 , lower voltage, higher current
+ transformer2,  higher voltage, lower current
+ 
+ 
+ 
