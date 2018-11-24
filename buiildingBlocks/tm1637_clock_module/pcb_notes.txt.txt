@@ -1,0 +1,12 @@
+1. button  |  |  \ switch   
+           |  |  /
+           
+           
+2. vcc, scl, data, gnd, 4 pins  downward facing, so, route traces with pins on copper TOP, so put caps resistor on top
+
+3. capacitor 100pf for scl data
+4. button K1 need a via
+
+5. trace width try 0.55mm
+
+6. can put vias inside digitube.

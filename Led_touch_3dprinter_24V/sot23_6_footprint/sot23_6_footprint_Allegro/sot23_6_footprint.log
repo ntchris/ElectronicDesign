@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sot23_6_footprint.dra                         )
+(    Software Version : 17.2S048                                      )
+(    Date/Time        : Wed Nov 21 23:13:25 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro
+    Name      = sot23_6_footprint.psm
+    User      = chris
+    Machine   = PHANTEKS_I5-960
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

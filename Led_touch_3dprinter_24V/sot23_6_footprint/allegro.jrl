@@ -1,0 +1,14 @@
+\t (00:00:30) allegro 17.2 S048 Windows SPB 64-bit Edition
+\t (00:00:30)     Journal start - Wed Nov 21 23:13:22 2018
+\t (00:00:30)         Host=PHANTEKS_I5-960 User=chris Pid=13704 CPUs=6
+\t (00:00:30) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.scr.txt
+\t (00:00:30) 
+   (00:00:30) Loading axlcore.cxt 
+\t (00:00:31) Starting new design...
+\i (00:00:31) trapsize 29310
+\i (00:00:31) replay I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.scr.txt 
+\i (00:00:31) cd I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro 
+\i (00:00:31) skill '(LB_createFootprint "I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.xml")' 
+\t (00:00:31) Reading Footprint XML
+\t (00:00:31) Creating padstacks
+\t (00:00:31)     Journal end - Wed Nov 21 23:13:24 2018

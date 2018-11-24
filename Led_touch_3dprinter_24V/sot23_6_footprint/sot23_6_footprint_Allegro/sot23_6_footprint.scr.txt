@@ -1,0 +1,2 @@
+cd "I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro"
+skill (LB_createFootprint "I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.xml")

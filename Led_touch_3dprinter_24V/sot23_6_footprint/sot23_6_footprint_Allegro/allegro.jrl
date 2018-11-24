@@ -1,0 +1,58 @@
+\t (00:00:31) allegro 17.2 S048 Windows SPB 64-bit Edition
+\t (00:00:31)     Journal start - Wed Nov 21 23:13:24 2018
+\t (00:00:31)         Host=PHANTEKS_I5-960 User=chris Pid=13704 CPUs=6
+\t (00:00:31) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.scr.txt
+\t (00:00:31) 
+\t (00:00:31) Starting new design...
+\i (00:00:31) trapsize 377
+\i (00:00:31) trapsize 383
+\i (00:00:32) trapsize 377
+\i (00:00:32) trapsize 466
+\i (00:00:32) trapsize 466
+\w (00:00:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:32) trapsize 11843
+\t (00:00:32) Performing DRC...
+\t (00:00:32) Multithreaded DRC update (6 threads).
+\t (00:00:32) No DRC errors detected.
+\t (00:00:32) Opening Design "sot23_6_footprint.dra"
+\t (00:00:32) Starting new design...
+\i (00:00:32) trapsize 9566
+\i (00:00:32) trapsize 9730
+\i (00:00:32) trapsize 9566
+\i (00:00:32) trapsize 11843
+\i (00:00:32) trapsize 11843
+\i (00:00:32) trapsize 461
+\t (00:00:32) Creating Shapes on Package layers
+\t (00:00:32) Creating Pins
+\t (00:00:32) Creating Vias
+\t (00:00:32) Symbol Created
+\t (00:00:32) Creating package symbol 'I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.psm'.
+\t (00:00:32) Starting Create symbol...
+\i (00:00:33) trapsize 101
+   (00:00:33) Loading cmds.cxt 
+   (00:00:33) Loading skillExt.cxt 
+\t (00:00:33) Opening existing design...
+\i (00:00:33) trapsize 93
+\i (00:00:33) trapsize 94
+\i (00:00:34) trapsize 93
+\i (00:00:34) trapsize 121
+\d (00:00:34) Design opened: I:/GitHubRoot/ElectronicDesign/Led_touch_3dprinter_24V/sot23_6_footprint/sot23_6_footprint_Allegro/sot23_6_footprint.dra
+\t (00:00:34) Symbol Saved
+   (00:00:34) t
+\i (00:00:34) trapsize 121
+\i (00:00:34) generaledit 
+\i (00:00:52) save_as 
+\i (00:01:00) fillin "sot23_6.dra"
+\t (00:01:01) Symbol 'sot23_6.psm' created.
+\i (00:01:01) generaledit 
+\i (00:01:10) dlib 
+\i (00:01:19) setwindow form.dlib
+\i (00:01:19) FORM dlib browse_export  
+\i (00:01:22) fillin "menu_cancel"
+\i (00:01:26) FORM dlib execute  
+\t (00:01:26) Starting Cadence export libraries...
+\i (00:01:30) FORM dlib cancel  
+\i (00:01:30) setwindow pcb
+\i (00:01:30) generaledit 
+\i (00:05:32) exit 
+\t (00:05:32)     Journal end - Wed Nov 21 23:18:25 2018

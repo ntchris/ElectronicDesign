@@ -1,0 +1,53 @@
+\t (00:00:18) allegro 17.2 S048 Windows SPB 64-bit Edition
+\t (00:00:18)     Journal start - Thu Nov 22 17:31:41 2018
+\t (00:00:18)         Host=PHANTEKS_I5-960 User=chris Pid=6928 CPUs=6
+\t (00:00:18) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:18) 
+   (00:00:18) Loading axlcore.cxt 
+\t (00:00:19) Opening existing design...
+\i (00:00:19) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Led_touch_3dprinter_24V
+\d (00:00:19) Design opened: I:/GITHUBROOT/ELECTRONICDESIGN/LED_TOUCH_3DPRINTER_24V/Led_touch_3dprinter_24V.brd
+\i (00:00:19) trapsize 332
+\i (00:00:20) trapsize 337
+\i (00:00:20) trapsize 339
+\i (00:00:20) trapsize 443
+\i (00:00:20) trapsize 433
+\i (00:00:20) generaledit 
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 395.9478 308.5048
+\i (00:00:26) trapsize 866
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 395.9477 308.5047
+\i (00:00:27) trapsize 1731
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 395.9478 308.5047
+\i (00:00:28) trapsize 866
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 395.9478 308.5047
+\i (00:00:29) trapsize 1731
+\i (00:36:47) trapsize 5330
+\i (00:36:48) trapsize 1731
+\i (00:36:49) zoom out 1 
+\i (00:36:49) setwindow pcb
+\i (00:36:49) zoom out 396.8481 313.8020
+\i (00:36:49) trapsize 3462
+\i (00:36:51) pick grid 456.1924 331.3208
+\t (00:36:51) last pick:  455.9300 331.4700
+\i (00:36:52) zoom in 1 
+\i (00:36:52) setwindow pcb
+\i (00:36:52) zoom in 396.8498 316.5024
+\i (00:36:52) trapsize 1731
+\i (00:36:52) zoom in 1 
+\i (00:36:52) setwindow pcb
+\i (00:36:52) zoom in 396.8498 316.5024
+\i (00:36:52) trapsize 866
+\i (00:36:57) pick grid 396.4516 314.4944
+\t (00:36:57) last pick:  396.2400 314.3250
+\i (00:37:00) pick grid 396.4516 314.4944
+\t (00:37:00) last pick:  396.2400 314.3250
+\i (00:37:13) exit 
+\t (00:37:14)     Journal end - Thu Nov 22 18:08:37 2018

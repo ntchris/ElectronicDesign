@@ -1,0 +1,110 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Nov-21-2018 at 22:05:52 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LED_TOUCH_TTP223_24V';
+ POST_TIME='Sep 30 2018 09:40:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_SMC0805_10PF':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9028823@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9028823@discrete.\c.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9028823@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_SMC0805_100NF':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9029095@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9029095@discrete.\c.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9029095@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_SMC0805_1UF':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9029131@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9029131@discrete.\c.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9029131@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 2_BLKCON100VHTM1SQW1002_':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9028083@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9028083@connector.\header 2.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9028083@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 2_BLKCON100VHTM1SQW1002_':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9028152@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9028152@connector.\header 2.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9028152@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'IRFZ34_1_SOT23_AO3402':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9028006@LED_TOUCH_TTP223_24V.IRFZ34_1.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9028006@led_touch_ttp223_24v.\irfz34_1.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9028006@led_touch_ttp223_24v.\irfz34_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMC0805_100K':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS15600@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins15600@analog.\r.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins15600@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMC0805_24K':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS15744@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins15744@analog.\r.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins15744@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SMC0805_10':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS9028333@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins9028333@analog.\r.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins9028333@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TTP223_SOT23_6_TTP223':;
+
+SECTION_NUMBER 1
+ '@LED_TOUCH_TTP223_24V.SCHEMATIC1(SCH_1):INS16170@LIBRARY1.TTP223.NORMAL(CHIPS)':
+ C_PATH='@led_touch_ttp223_24v.schematic1(sch_1):ins16170@library1.\ttp223.normal\(chips)',
+ P_PATH='@led_touch_ttp223_24v.schematic1(sch_1):page1_ins16170@library1.\ttp223.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

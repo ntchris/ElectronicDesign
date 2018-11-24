@@ -1,0 +1,104 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  I:.../ELECTRONICDESIGN/LED_TOUCH_3DPRINTER_24V/Led_touch_3dprinter_24V.brd  |
+|                                                    Wed Nov 21 23:18:13 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 J2.2           M1.3           R2.1           
+                                 U1.2           U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_24V_NEGATIVE pins ADDED TO this new net
+                                 J1.1           M1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_24V_POSITIVE pins ADDED TO this new net
+                                 J1.2           J2.1           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15646       pins ADDED TO this new net
+                                 C2.1           C3.1           R1.1           
+                                 R2.2           U1.5           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16602       pins ADDED TO this new net
+                                 M1.1           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUTPUT       pins ADDED TO this new net
+                                 R3.1           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TOUCH_PAD    pins ADDED TO this new net
+                                 C1.1           U1.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  I:.../ELECTRONICDESIGN/LED_TOUCH_3DPRINTER_24V/Led_touch_3dprinter_24V.brd  |
+|                                                    Wed Nov 21 23:18:13 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C_SMC0805_1UF
+ C_SMC0805_10PF
+ C_SMC0805_100NF
+ HEADER 2_BLKCON100VHTM1SQW1002_
+ IRFZ34_1_SOT23_AO3402
+ R_SMC0805_24K
+ R_SMC0805_100K
+ R_SMC0805_10
+ TTP223_SOT23_6_TTP223
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  I:.../ELECTRONICDESIGN/LED_TOUCH_3DPRINTER_24V/Led_touch_3dprinter_24V.brd  |
+|                                                    Wed Nov 21 23:18:13 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_SMC0805_10PF        
+ C2                  C_SMC0805_100NF       
+ C3                  C_SMC0805_1UF         
+ J1                  HEADER 2_BLKCON100VHTM1SQW1002_ 
+ J2                  HEADER 2_BLKCON100VHTM1SQW1002_ 
+ M1                  IRFZ34_1_SOT23_AO3402 
+ R1                  R_SMC0805_100K        
+ R2                  R_SMC0805_24K         
+ R3                  R_SMC0805_10          
+ U1                  TTP223_SOT23_6_TTP223 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  I:.../ELECTRONICDESIGN/LED_TOUCH_3DPRINTER_24V/Led_touch_3dprinter_24V.brd  |
+|                                                    Wed Nov 21 23:18:13 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ M1.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ U1.5                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      25                                        |
+|       Comp definitions added:       9                                        |
+|       Components added      :      10                                        |
+|       Slot property added   :      10                                        |
+|                                                                              |
+|   Total ECO changes reported:      54                                        |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,7 @@
+* source CADENCE_VOLTAGE_DIVIDE
+R_R1         N14360 N14340  100k TC=0,0 
+R_R2         0 N14360  24k TC=0,0 
+V_V1         N14340 0 24Vdc
+X_D1         N14340 N14947 LED PARAMS: IS=7.2015e-203 RS=2  BV=5 IBV=10e-6     
++     
+M_M1         N14947 N14360 0 0 MbreakN           

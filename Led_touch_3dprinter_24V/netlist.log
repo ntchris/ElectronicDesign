@@ -1,0 +1,13 @@
+{ Using PSTWRITER 17.2.0 d001Nov-21-2018 at 23:18:12 }
+
+#1 WARNING(ORCAP-36006): Part Name "HEADER 2_BLKCON100VHTM1SQW1002_HEADER 2" is renamed to "HEADER 2_BLKCON100VHTM1SQW1002_".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... I:\GitHubRoot\ElectronicDesign\Led_touch_3dprinter_24V/pstchip.dat
+
+Loading... I:\GitHubRoot\ElectronicDesign\Led_touch_3dprinter_24V/pstchip.dat
+
+Loading... I:\GitHubRoot\ElectronicDesign\Led_touch_3dprinter_24V/pstchip.dat
+
+Loading... I:\GitHubRoot\ElectronicDesign\Led_touch_3dprinter_24V/pstxnet.dat
+packaging the design view...

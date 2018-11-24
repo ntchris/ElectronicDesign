@@ -1,5 +1,5 @@
 BSIM3v3.3.0 Parameter Checking.
 Warning: This model is BSIM3v3.3.0; you specified a wrong version number.
-Model = cph3348:xq2
+Model = sft1341:xq2b
 Warning: Pd = 0 is less than W.
 Warning: Ps = 0 is less than W.

@@ -1,0 +1,153 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Nov-21-2018 at 23:18:13}
+primitive 'C_SMC0805_10PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='smc0805';
+    VALUE='10pf';
+  end_body;
+end_primitive;
+primitive 'C_SMC0805_100NF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='smc0805';
+    VALUE='100nf';
+  end_body;
+end_primitive;
+primitive 'C_SMC0805_1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='smc0805';
+    VALUE='1uf';
+  end_body;
+end_primitive;
+primitive 'HEADER 2_BLKCON100VHTM1SQW1002_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 2';
+    JEDEC_TYPE='blkcon100vhtm1sqw1002';
+    VALUE='HEADER 2';
+  end_body;
+end_primitive;
+primitive 'IRFZ34_1_SOT23_AO3402';
+  pin
+    'S':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'G':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'D':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IRFZ34_1';
+    JEDEC_TYPE='SOT23';
+    VALUE='AO3402';
+  end_body;
+end_primitive;
+primitive 'R_SMC0805_100K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smc0805';
+    VALUE='100k';
+  end_body;
+end_primitive;
+primitive 'R_SMC0805_24K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smc0805';
+    VALUE='24k';
+  end_body;
+end_primitive;
+primitive 'R_SMC0805_10';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smc0805';
+    VALUE='10';
+  end_body;
+end_primitive;
+primitive 'TTP223_SOT23_6_TTP223';
+  pin
+    'Q':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'I':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'TOG':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'VDD':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'AHLB':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ttp223';
+    JEDEC_TYPE='SOT23_6';
+    VALUE='ttp223';
+  end_body;
+end_primitive;
+END.
